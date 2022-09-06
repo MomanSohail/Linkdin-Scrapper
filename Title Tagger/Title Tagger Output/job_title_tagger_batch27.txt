@@ -1,0 +1,243 @@
+214,Senior Dotnet Developer,.NET Developer,0.708
+197,Software Engineer,Software Engineer,1.0
+82,Remote Front End Developer,Front End Developer,0.779
+82,Senior Frontend Developer,Front End Developer,0.778
+226,DevOps Engineer,DevOps Engineer,1.0
+214,.Net Developer,.NET Developer,1.0
+214,Senior .NET Developer,.NET Developer,0.765
+250,GCP Platform Engineer (Remote),Platform Engineer,0.494
+41,Client Support Executive - Hybrid (Remote & London),Client Relations Officer,0.477
+82,Frontend Developer,Front End Developer,0.97
+128,Research Operations Manager,Operations Manager,0.788
+82,Frontend Developer,Front End Developer,0.97
+6,Account Executive,Accounts Executive,0.985
+41,Client Solutions Executive - Remote,Client Relations Officer,0.499
+6,Remote Enterprise Account Executive,Accounts Executive,0.687
+6,Account Executive,Accounts Executive,0.985
+161,Sales Engineer - MDR / Pen Test - £90k,Software Developer in Test,0.405
+6,Account Executive,Accounts Executive,0.985
+152,Senior Security Consultant,Security Specialist,0.768
+6,Account Executive,Accounts Executive,0.985
+6,SaaS Account Executive - Martech / Category Disruptor / Hyper Growth,Accounts Executive,0.529
+96,AVP/VP, Reinsurance Claims Account Executive | Remote,Insurance Manager,0.46
+6,Enterprise Account Executive,Accounts Executive,0.849
+244,Cyber Security Manager,Information Security Manager,0.829
+525,US Carrier Sales Account Executive,Sales Executive,0.633
+6,Acquisition Account Executive,Accounts Executive,0.706
+6,Improveit360 - Sr. Account Executive,Accounts Executive,0.682
+6,Account Executive,Accounts Executive,0.985
+6,Account Executive,Accounts Executive,0.985
+175,Technical Program Manager,Technical Project Manager,0.765
+6,Account Director - Commercial,Accounts Executive,0.613
+6,Account Executive,Accounts Executive,0.985
+177,Inside Sales Representative - Software,Technical sales manager,0.574
+112,Precision Medicine Executive, Mid-Atlantic Region,M&A Specialist,0.44
+525,Sales Development Representative,Sales Executive,0.712
+6,Account Executive | TECH | SaaS | 130K OTE,Accounts Executive,0.582
+119,Channel Sales Director – Series C MDR Vendor – Anywhere in UK/Remote,Media Buyer,0.398
+6,B2B Sales Account Executive,Accounts Executive,0.652
+525,Field Sales Director,Sales Executive,0.619
+6,Account Executive,Accounts Executive,0.985
+103,Indirect Lending Relationship Advisor,Investment Advisor,0.507
+176,Technical Account Executive, API Sales - Remote,Technical sales executive,0.567
+131,Resourcing Business Partner,Partner - Accountancy,0.54
+59,Cyber Security Consultant,Cyber Security,0.743
+6,Account Executive,Accounts Executive,0.985
+525,Sales Director,Sales Executive,0.787
+244,Cyber Security Manager,Information Security Manager,0.829
+6,Account Executive,Accounts Executive,0.985
+165,Penetration Tester,Software Tester (Manual Testing),0.472
+211,Penetration Tester – Fully Remote - UK - £50,000 - £85,000 plus 15% bonus,Security Engineer,0.339
+6,Account Executive - Hunter,Accounts Executive,0.852
+6,Sr. Account Executive,Accounts Executive,0.885
+60,Data Analyst,Data Analyst,1.0
+77,Executive Assistant,Executive Assistant,1.0
+134,Online data entry/payroll assistant,Payroll,0.517
+9,Sr. Administrative Assistant to President & Founder,Administration Assistant,0.674
+77,Executive Assistant,Executive Assistant,1.0
+65,Data Protection Officer,Data Protection Officer,1.0
+77,Senior Executive Assistant,Executive Assistant,0.935
+9,Program Assistant,Administration Assistant,0.647
+9,Office Assistant,Administration Assistant,0.766
+248,DevOps Engineer Security AWS Terraform,AWS Cloud Engineer,0.659
+62,GCP Data Architect,Data Architect,0.644
+65,Data Protection / Information Governance Manager,Data Protection Officer,0.702
+66,User Experience Researcher,Data Scientist,0.499
+66,Head of Data Science,Data Scientist,0.849
+60,Machine Learning Analyst,Data Analyst,0.779
+197,Senior Software Engineer,Software Engineer,0.773
+149,User Researcher, Remote,Salesforce Specialist,0.507
+106,Customer Insights Analyst Global Media,Investor Relations Analyst,0.494
+64,Data Manager,Data Engineering Manager,0.801
+24,Business Analyst,Business Analyst,1.0
+24,Remote Healthcare Business Analyst,Business Analyst,0.623
+235,Senior Python Engineer,Python Developer,0.759
+24,Business Analyst,Business Analyst,1.0
+93,Pro Bono Manager,HR Manager,0.541
+24,Business Analyst - Regulatory Intelligence,Business Analyst,0.642
+215,Lead Java Developer,Java Engineer,0.665
+24,Clinical Business Analyst,Business Analyst,0.754
+224,Business Analyst Intelligent Process Automation with Property and Casualty Insurance Experience,Marketing Automation Manager,0.549
+24,WMS Business Analyst,Business Analyst,0.743
+146,Senior Research Manager, Psychometrics - State Solutions (Remote),Relationship Manager,0.433
+24,Business Analyst,Business Analyst,1.0
+75,Lead Marketing and Privacy Attorney (Secondment),Digital Marketing Executive,0.583
+24,Business Analyst,Business Analyst,1.0
+24,Analyst, Government Business,Business Analyst,0.823
+226,DevOps Engineer,DevOps Engineer,1.0
+109,IT Program Manager-Consulting/Advisory,IT Consultant,0.745
+24,Business Analyst,Business Analyst,1.0
+117,Google Campaign Manager (£35-45K),Marketing Manager,0.517
+58,Customer Success Manager,Customer operations manager,0.74
+58,Senior Customer Success Manager,Customer operations manager,0.705
+117,Lifecycle Marketing Executive,Marketing Manager,0.633
+525,Marketing Executive,Sales Executive,0.811
+176,Technical Lead,Technical sales executive,0.606
+230,Customer Success Manager - Data Analytics, Business Intelligence,Analytics Manager,0.621
+138,Sr. SEM/PPC Manager,PPC Specialist,0.637
+75,Digital Marketing Executive,Digital Marketing Executive,1.0
+58,Customer Success Manager,Customer operations manager,0.74
+155,Senior SEO Executive- REMOTE,SEO Specialist,0.637
+58,Customer Success Manager,Customer operations manager,0.74
+58,Customer Success Manager,Customer operations manager,0.74
+525,Marketing Executive,Sales Executive,0.811
+525,Marketing Executive,Sales Executive,0.811
+226,DevOps Architect,DevOps Engineer,0.868
+138,PPC Manager,PPC Specialist,0.826
+58,Customer Success Manager,Customer operations manager,0.74
+166,Solutions Architect,Solutions Architect,1.0
+58,Customer Success Manager,Customer operations manager,0.74
+164,SDET Automation Tester,Software Tester (automation),0.676
+525,Marketing Executive,Sales Executive,0.811
+143,Project Manager,Project Manager - IT,0.911
+175,Infrastructure Project Manager,Technical Project Manager,0.783
+78,Finance Manager (Business Partnering),Finance Manager,0.729
+128,Area Operations Manager - (Premium Pubs) South East,Operations Manager,0.564
+214,.Net Core Developer,.NET Developer,0.784
+146,Relationship Director,Relationship Manager,0.758
+114,Commercial Director - International Travel,Managing Director,0.5
+196,Recruitment Director - Recruitment Startup Investment & Support!,Recruiter,0.499
+114,Game Director,Managing Director,0.599
+200,Director of Product Engineering,Product Designer,0.681
+21,Art Director - Luxury Beauty Brand,Brand Manager,0.613
+114,Assistant Director - Support,Managing Director,0.636
+143,Digital Project Manager,Project Manager - IT,0.812
+58,Area Operations Manager - (Community Pubs & Restaurants) North West,Customer operations manager,0.609
+139,Director of Product Management,Product Manager,0.794
+143,Project Manager,Project Manager - IT,0.911
+143,Project Manager,Project Manager - IT,0.911
+117,Product Marketing Manager,Marketing Manager,0.88
+57,Guest Care Specialist,Custody Specialist,0.602
+90,Head Of Human Resources,Head of HR,0.836
+160,Application Developer,Software Developer,0.846
+85,Open Wing Alliance Grant Specialist,Fund Administrator,0.431
+217,Customer Success Lead,Big Data Lead,0.486
+247,AWS Serverless Administrator,AWS Specialist,0.551
+196,Recruiting Coordinator (VMS),Recruiter,0.524
+120,Android Developer,Mobile Developer,0.771
+226,DevOps Engineer, AWS,DevOps Engineer,0.837
+220,Kronos Subject Matter Expert,QA Engineer,0.407
+175,Project Manager/ Business Analyst,Technical Project Manager,0.775
+68,Remote Oracle DBA,DBA,0.547
+244,Information Security Manager,Information Security Manager,1.0
+120,Mobile Engineer,Mobile Developer,0.777
+175,Sr. Project Manager,Technical Project Manager,0.808
+173,Enterprise Architect,Technical Architect,0.712
+232,Quantitative Quality Assurance Specialist,Data Quality Specialist,0.701
+83,Full Stack Developer,Full Stack Developer,1.0
+91,Head of Product,Head of Legal,0.579
+128,Operations Analyst,Operations Manager,0.772
+89,Head Of Digital design,Head of Digital Marketing,0.691
+12,TIER II Healthcare Application Support,Application Support,0.569
+159,100% REMOTE APPLICATION ARCHITECT,Software Architect,0.545
+211,Identity & Access Management Engineer,Security Engineer,0.625
+221,School Business Manager,Business Development Manager,0.715
+149,Help Desk Technician,Salesforce Specialist,0.468
+197,Software Engineer,Software Engineer,1.0
+166,Senior Solutions Architect,Solutions Architect,0.84
+149,Help Desk Technician,Salesforce Specialist,0.468
+30,Information Systems Manager, Denver Health Medical Plan,Chief Information Officer (CIO),0.494
+149,Help Desk Technician,Salesforce Specialist,0.468
+160,Sr. Application Developer,Software Developer,0.723
+120,Mobile Engineer,Mobile Developer,0.777
+197,Software Engineer,Software Engineer,1.0
+248,REMOTE Cloud Engineer,AWS Cloud Engineer,0.85
+42,Salesforce Experience Cloud Specialist,Cloud Specialist,0.74
+62,Business Intelligence Architect,Data Architect,0.709
+64,Senior Project Manager - Data Engineering,Data Engineering Manager,0.77
+238,Senior Site Reliability Engineer,Site Reliability Engineer,0.883
+142,Help Desk Support Specialist,Product Support Specialist,0.66
+196,Internal Recruiter,Recruiter,0.816
+226,Application Support DevOps Engineer - fully remote,DevOps Engineer,0.614
+89,Head Of Growth Marketing,Head of Digital Marketing,0.666
+240,Azure Virtual Desktop Engineer,Cloud & Infrastructure Engineer,0.512
+205,Remote Field App Engineer,Backend Engineer,0.462
+149,Digital Pathology Application Specialist,Salesforce Specialist,0.548
+215,IT-Software Engineer - Java Application Support Analyst,Java Engineer,0.726
+160,Application Developer,Software Developer,0.846
+166,Fully Remote Solutions Architect / Technical Lead,Solutions Architect,0.589
+240,Cloud Solution Architect,Cloud & Infrastructure Engineer,0.691
+107,O365 Messaging and Collaboration Administrator,IT Administrator,0.439
+2,Informatica PowerCenter Production Support,2nd Line Technical Support,0.342
+238,Senior Site Reliability Engineer,Site Reliability Engineer,0.883
+165,Functional Tester,Software Tester (Manual Testing),0.61
+226,DevOps Engineer,DevOps Engineer,1.0
+170,Linux Systems Engineer - Permanent,System Engineer,0.579
+94,Senior HRIS Administrator//FT(Remote),HR Officer,0.604
+160,Software Developer,Software Developer,1.0
+14,Dynamics Developer - Remote,Back End Developer,0.507
+67,Data Governance & Strategy Manager,Data Scientist Manager,0.604
+197,Software Engineer,Software Engineer,1.0
+82,Frontend Developer,Front End Developer,0.97
+250,C++ Software Engineer | High-Frequency, Real Time Trading Platform | £60k - £70k,Platform Engineer,0.533
+237,Atlassian Engineer,Infrastructure Engineer,0.638
+154,Senior Accountant,Senior Fund Accountant,0.878
+214,.Net Engineer,.NET Developer,0.831
+26,Business Systems Developer,Business Development,0.696
+197,Senior Software Engineer,Software Engineer,0.773
+103,Independent Financial Advisor,Investment Advisor,0.73
+221,Business Development Manager, Asset Finance,Business Development Manager,0.788
+24,Technical Business Analyst,Business Analyst,0.869
+106,Investor Relations Analyst,Investor Relations Analyst,1.0
+196,Remote Senior Recruitment Consultant - FinTech,Recruiter,0.522
+94,PR and Media Officer,HR Officer,0.585
+109,Principal Consultant,IT Consultant,0.599
+177,CRM Systems Admin & Support Global Sales,Technical sales manager,0.578
+526,Graduate Engineer,Technical Engineer,0.773
+96,Life Insurance Specialist,Insurance Manager,0.674
+24,Remote Business Systems Analyst (Finance Team),Business Analyst,0.63
+154,Senior Auditor CPA (401k, MFG) (FULLY REMOTE) $120k,Senior Fund Accountant,0.517
+29,Chief Financial Officer,Chief Financial Officer (CFO),0.873
+525,Brand Sales Account Executive (Fashion),Sales Executive,0.67
+154,Senior Auditor CPA (401k, MFG) (FULLY REMOTE) $120k,Senior Fund Accountant,0.517
+13,Remote OR Hybrid Audit Senior - established firm outside of DC!,Audit professional,0.612
+79,Financial Analyst - open to public accountants,Financial Analyst,0.723
+146,Relationship Manager,Relationship Manager,1.0
+99,Audit Manager $175k FULL REMOTE,Internal Audit Manager,0.58
+79,Financial Analyst & Planner,Financial Analyst,0.825
+111,Lawyer,Lawyer,1.0
+79,Financial Analyst,Financial Analyst,1.0
+221,Business Development Manager,Business Development Manager,1.0
+132,In House Commercial Contracts Solicitor,Partner - Legal,0.482
+79,Financial Analyst,Financial Analyst,1.0
+99,Remote Audit Manager,Internal Audit Manager,0.725
+74,Growth Marketer,Digital Marketer,0.614
+79,Financial Analyst,Financial Analyst,1.0
+79,Financial Analyst,Financial Analyst,1.0
+79,Part-Time Financial Analyst - Remote,Financial Analyst,0.649
+178,Technical Author,Technical Writer,0.818
+91,Head of Probate,Head of Legal,0.6
+225,Engineering Manager,Engineering Manager,1.0
+224,SAP Controls Manager,Marketing Automation Manager,0.476
+172,REMOTE - Tax Manager,Tax Professional,0.594
+111,Defendant Housing Litigation Solicitor,Lawyer,0.409
+110,IT Delivery Manager – Remote,IT Manager,0.541
+525,Sales Director,Sales Executive,0.787
+90,Head of Growth,Head of HR,0.493
+172,Corporate Tax Manager,Tax Professional,0.706
+60,Data Analyst,Data Analyst,1.0
+78,Senior Finance Manager - Commercial Markets (Market leading Biotech- high growth multinational),Finance Manager,0.638
+231,Director of Data Governance,Director of Analytics and Data Science,0.651
+113,Management Accountant,Management Accountant,1.0
+58,Area Cleaning Supervisor,Customer operations manager,0.464
+143,Solar Installer,Project Manager - IT,0.251

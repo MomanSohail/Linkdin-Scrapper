@@ -1,0 +1,500 @@
+66,Associate Data Scientist,Data Scientist,0.857
+66,Senior Data Scientist,Data Scientist,0.809
+213,Senior React Developer,React Developer,0.833
+238,Site Reliability Engineer,Site Reliability Engineer,1.0
+177,Sales Development Representative (Remote),Technical sales manager,0.541
+164,Automation Tester,Software Tester (automation),0.914
+63,Information Technology Support Engineer,Data Engineer,0.645
+150,Technical Lead / Scrum Master,Scrum Master,0.797
+226,DevOps Engineer,DevOps Engineer,1.0
+229,Test Automation Specialist,Test Automation Engineer,0.912
+220,Quality Assurance Engineer,QA Engineer,0.761
+226,DevOps Engineer,DevOps Engineer,1.0
+82,Senior Frontend Developer,Front End Developer,0.778
+175,Technical Project Manager,Technical Project Manager,1.0
+228,Senior Golang Engineer,Head of Engineering,0.526
+24,Senior Business Analyst,Business Analyst,0.859
+173,Technical Implementation Consultant,Technical Architect,0.607
+226,DevOps Engineer,DevOps Engineer,1.0
+63,Senior Data Engineer,Data Engineer,0.821
+238,Site Reliability Engineer,Site Reliability Engineer,1.0
+139,Senior Product Manager,Product Manager,0.814
+226,DevOps Engineer,DevOps Engineer,1.0
+215,Senior Implementation Engineer - Javascript,Java Engineer,0.517
+109,Microsoft Consultant,IT Consultant,0.723
+222,UX Architect - Remote Working,UX Designer,0.401
+205,Embedded Linux Engineer - Remote,Backend Engineer,0.444
+226,DevOps Engineer,DevOps Engineer,1.0
+216,Senior PHP Developer,PHP Developer,0.816
+166,Solutions Architect,Solutions Architect,1.0
+237,Infrastructure Engineer,Infrastructure Engineer,1.0
+140,Product Owner,Product Owner,1.0
+24,Senior Business Analyst,Business Analyst,0.859
+226,DevOps Engineer - Fully Remote - £75k,DevOps Engineer,0.646
+12,Application Support/BI Developer (Managed Services),Application Support,0.619
+248,Solutions Architect - AWS - SaaS,AWS Cloud Engineer,0.651
+93,SRE Manager,HR Manager,0.571
+139,Senior Product Manager,Product Manager,0.814
+24,Commodities Business Analyst (Blockchain),Business Analyst,0.621
+166,Solution Architect - STIBO,Solutions Architect,0.76
+197,Principal Software Engineer,Software Engineer,0.809
+83,Full Stack Developer,Full Stack Developer,1.0
+197,Software Engineer,Software Engineer,1.0
+160,Senior Software Developer,Software Developer,0.794
+14,Back End Developer,Back End Developer,1.0
+197,Software Engineer,Software Engineer,1.0
+120,Software Engineer (Go) - Mobile Payments Platform - £70-95k,Mobile Developer,0.497
+83,Senior Fullstack Developer,Full Stack Developer,0.731
+83,Full Stack Developer,Full Stack Developer,1.0
+235,Senior Software Engineer - Python/Django,Python Developer,0.623
+212,Backend Software Developer (Ruby on Rails),Ruby on Rails Developer,0.871
+214,.Net Developer,.NET Developer,1.0
+82,Senior Frontend Developer,Front End Developer,0.778
+214,Senior .NET Developer,.NET Developer,0.765
+233,SOA Developer,QA Developer,0.655
+143,Application Project Manager,Project Manager - IT,0.795
+176,Tech Lead,Technical sales executive,0.559
+24,Technical Business Analyst,Business Analyst,0.869
+213,Principal React Developer,React Developer,0.833
+248,AWS IOT Engineer,AWS Cloud Engineer,0.755
+226,DevOps Engineer,DevOps Engineer,1.0
+63,Data Engineer,Data Engineer,1.0
+231,Director Of Information Technology,Director of Analytics and Data Science,0.624
+150,Agile Coach,Scrum Master,0.668
+216,Remote PHP Developer,PHP Developer,0.8
+158,WordPress Developer - London or Remote,Sharepoint Developer,0.475
+158,Salesforce Developer,Sharepoint Developer,0.905
+73,DevOps - Outside IR35 Contract,DevOps,0.465
+63,Data Engineer - Tableau,Data Engineer,0.596
+14,Back End Developer,Back End Developer,1.0
+235,Django Developer - FULLY REMOTE,Python Developer,0.501
+235,Python Developer,Python Developer,1.0
+213,UI Developer – React RxJS,React Developer,0.727
+24,Business Analyst (Financial Services),Business Analyst,0.907
+240,Senior Application Engineer (Cloud)- £90k,Cloud & Infrastructure Engineer,0.68
+150,Scrum Master,Scrum Master,1.0
+153,Senior Server Engineer,Senior Corporate Administrator,0.668
+197,Software Engineer,Software Engineer,1.0
+12,Application Manager,Application Support,0.654
+240,Cloud Native Engineer,Cloud & Infrastructure Engineer,0.815
+220,Quality Assurance Engineer,QA Engineer,0.761
+83,Full Stack Developer,Full Stack Developer,1.0
+207,Full Stack Engineer,Full Stack Engineer,1.0
+197,Software Engineer,Software Engineer,1.0
+207,Full Stack Engineer,Full Stack Engineer,1.0
+207,Full Stack Engineer,Full Stack Engineer,1.0
+197,Software Engineer,Software Engineer,1.0
+83,Remote Full Stack Developer,Full Stack Developer,0.749
+207,Full Stack Engineer,Full Stack Engineer,1.0
+205,Senior Backend Engineer,Backend Engineer,0.834
+162,Remote Software Development Manager,Software Development Manager,0.74
+83,Full Stack and Frontend Developers,Full Stack Developer,0.807
+83,Full Stack Developer,Full Stack Developer,1.0
+207,Full Stack Engineer,Full Stack Engineer,1.0
+197,Software Engineer,Software Engineer,1.0
+207,Full Stack Engineer,Full Stack Engineer,1.0
+207,Full Stack Engineer,Full Stack Engineer,1.0
+197,Software Engineer,Software Engineer,1.0
+215,Java Developer,Java Engineer,0.887
+160,Remote Software Engineer (C/C++),Software Developer,0.579
+207,Full Stack Engineer,Full Stack Engineer,1.0
+205,Senior Software Engineer (Backend), Bitcoin,Backend Engineer,0.628
+207,Full Stack Engineer,Full Stack Engineer,1.0
+197,Senior Software Engineer,Software Engineer,0.773
+214,Dotnet Developer,.NET Developer,0.829
+213,100% Remote Fullstack Engineers (React and Java),React Developer,0.569
+83,REMOTE Fullstack Developer (W-2 Only),Full Stack Developer,0.436
+207,Full Stack Engineer,Full Stack Engineer,1.0
+160,Application Developer,Software Developer,0.846
+215,Remote Java Developer,Java Engineer,0.652
+82,Frontend Developer,Front End Developer,0.97
+248,Software Engineer with AWS,AWS Cloud Engineer,0.835
+160,REMOTE Scribe Software Engineer,Software Developer,0.5
+158,Javascript Developer,Sharepoint Developer,0.675
+197,Software Engineer,Software Engineer,1.0
+215,Java UI Developer (Entry Level),Java Engineer,0.71
+163,Software Development Lead,Software Development Team Lead,0.898
+82,Frontend Developer,Front End Developer,0.97
+162,Senior Manager of Software Development,Software Development Manager,0.86
+214,Unity Developer,.NET Developer,0.663
+214,REMOTE JavaScript/C# Developer position,.NET Developer,0.514
+14,Back End Developer,Back End Developer,1.0
+197,Senior Software Engineer,Software Engineer,0.773
+207,Full Stack Engineer (Java/Angular),Full Stack Engineer,0.728
+215,Java Developer,Java Engineer,0.887
+207,Fullstack Software Engineer,Full Stack Engineer,0.681
+197,Software Engineer,Software Engineer,1.0
+207,Full Stack Engineer,Full Stack Engineer,1.0
+214,Software Developer C#/.Net,.NET Developer,0.873
+215,Java J2Ee Developer (Entry Level),Java Engineer,0.666
+215,Java Software Engineer,Java Engineer,0.949
+197,Senior Software Engineer,Software Engineer,0.773
+120,Dr. Android Engineer,Mobile Developer,0.577
+197,Software Engineer,Software Engineer,1.0
+158,Software Developer - Remote/W2,Sharepoint Developer,0.609
+197,Senior Software Engineer,Software Engineer,0.773
+235,Python Developer (Entry Level),Python Developer,0.879
+14,Remote Senior Software Engineer (Work From Home),Back End Developer,0.474
+197,Software Engineer,Software Engineer,1.0
+197,Software Engineer,Software Engineer,1.0
+197,REMOTE GAP Software Engineer,Software Engineer,0.509
+197,Software Engineer,Software Engineer,1.0
+197,Senior Software Engineer,Software Engineer,0.773
+197,Embedded Software Engineer,Software Engineer,0.721
+215,Java Developer,Java Engineer,0.887
+82,Mid/Senior Frontend Developer,Front End Developer,0.745
+213,Senior Developer (NodeJS, React, Lambda AWS)- FinTech Blockchain $170k + token,React Developer,0.445
+82,Frontend Developer,Front End Developer,0.97
+120,Android Developer,Mobile Developer,0.771
+212,Ruby on Rails Developer,Ruby on Rails Developer,1.0
+176,SaaS Sales - Speech Recognition Platform $80k + super + bonus,Technical sales executive,0.358
+197,Software Engineer | C / C++ / Linux | Medical | Flexible/Remote Working | Up to $130k + Super,Software Engineer,0.501
+216,PHP Developer,PHP Developer,1.0
+215,Java Software Engineer,Java Engineer,0.949
+158,C++ Developer,Sharepoint Developer,0.725
+250,Head of Software Engineering – Remote within Ireland,Platform Engineer,0.507
+161,Software Engineer In Test,Software Developer in Test,0.901
+159,Senior Software Architect,Software Architect,0.838
+189,Senior .Net Web Developer - Hybrid or Remote,Web Developer,0.603
+125,Project Manager - Life Science / Pharma - Remote within Ireland,Non-Technical Project Manager,0.503
+226,DevOps Engineer,DevOps Engineer,1.0
+248,Cloud Platform Engineer – Linux to AWS,AWS Cloud Engineer,0.813
+187,Senior UX/UI Designer- Remote within Ireland,UX/UI Designer,0.525
+215,Java Developer (Cross-training to 'Go') - Remote within Ireland,Java Engineer,0.455
+163,Lead UI Developer (Fintech) – Remote within Ireland,Software Development Team Lead,0.385
+162,Software Test Engineering Manager – Excellent Benefits Package,Software Development Manager,0.613
+168,Informatica MDM Developer,SQL Developer,0.429
+120,Mobile Architect,Mobile Developer,0.7
+14,Back End Developer,Back End Developer,1.0
+215,Java Software Engineer,Java Engineer,0.949
+249,Full Stack Engineer - Node.js,Node Developer,0.677
+207,Senior Full Stack Engineer,Full Stack Engineer,0.874
+228,Director Of Engineering,Head of Engineering,0.775
+214,.Net Developer,.NET Developer,1.0
+158,Contract Java Developer | Toronto/Vancouver/Calgary,Sharepoint Developer,0.492
+241,Business System Analyst,System Analyst,0.87
+525,Sales Development Representative,Sales Executive,0.712
+140,Technical Product Owner,Product Owner,0.861
+140,Technical Product Owner,Product Owner,0.861
+211,Senior Security Engineer, Team Lead,Security Engineer,0.729
+226,Senior Operations Engineer (DevOps),DevOps Engineer,0.822
+249,Nodejs Developer,Node Developer,0.902
+215,Senior Java Developer,Java Engineer,0.786
+158,Javascript Developer | Vancouver/Calgary,Sharepoint Developer,0.523
+215,Senior Java Software Engineer,Java Engineer,0.846
+180,Technical Training Instructor,Training Manager,0.644
+29,Head Of Finance & Ops (Route to CFO),Chief Financial Officer (CFO),0.802
+78,Legal Cashier / Finance Manager,Finance Manager,0.699
+518,Manager Research Analyst,Analyst,0.704
+80,Finance Manager / Controller,Financial Controller,0.831
+80,Senior Financial Controller (Listed Multinational business- OUTSIDE IR35),Financial Controller,0.628
+28,Chief Executive Officer (CEO),Chief Executive Officer (CEO),1.0
+78,Finance Project Manager,Finance Manager,0.816
+79,Senior Financial Analyst,Financial Analyst,0.842
+79,Financial Analyst,Financial Analyst,1.0
+104,Investment Operations Analyst,Investment Analyst,0.915
+78,Finance Project Manager,Finance Manager,0.816
+79,Senior Financial Analyst,Financial Analyst,0.842
+151,Crypto Middle Office Analyst,Security Analyst,0.647
+79,Senior Financial Analyst,Financial Analyst,0.842
+79,Senior Financial Analyst,Financial Analyst,0.842
+79,Financial Analyst,Financial Analyst,1.0
+24,Corporate Accounting Analyst - 100% Remote,Business Analyst,0.651
+52,Account Analyst,Credit Analyst,0.727
+79,Financial Systems Analyst (BI Focus),Financial Analyst,0.739
+175,M&A Analyst- Project Manager,Technical Project Manager,0.775
+78,FINANCE PLANNING/HR (Upto $120k + Equity),Finance Manager,0.506
+48,Mergers and Acquisitions Manager,Consolidations Manager,0.602
+147,Sr. Risk Analyst,Risk Analyst,0.84
+147,RCSA Operational Risk Analyst,Risk Analyst,0.663
+5,Forensic Accountant,Accountant,0.764
+66,Data analytics/Financial Data Scientist,Data Scientist,0.744
+520,Vice President of Finance,Finance Officer,0.628
+5,Sr. Staff Accountant,Accountant,0.78
+43,Commercial Loan Servicing Analyst,Commercial Banker,0.646
+154,Senior Revenue Accountant,Senior Fund Accountant,0.843
+60,Data Analyst,Data Analyst,1.0
+5,Staff Accountant,Accountant,0.861
+113,Accounting Manager - Fully Remote,Management Accountant,0.515
+5,Jr. Accountant,Accountant,0.796
+9,Assistant Controller,Administration Assistant,0.617
+79,Financial Systems Analyst,Financial Analyst,0.899
+79,Senior Financial Analyst,Financial Analyst,0.842
+154,Senior Cost Accountant (100% Remote),Senior Fund Accountant,0.7
+10,Professional Resource,Advisory Professional,0.579
+142,Operations Specialist | VC-Backed EdTech Company | Fully Remote,Product Support Specialist,0.511
+79,Financial Analyst,Financial Analyst,1.0
+86,Manager, FP&A,General Manager,0.632
+78,Senior Finance Manager (REMOTE),Finance Manager,0.741
+85,Assistant Fund Manager,Fund Administrator,0.786
+183,Treasury Associate,Treasury Officer,0.858
+80,Interim Controller remote,Financial Controller,0.337
+131,Finance Business Partner,Partner - Accountancy,0.681
+24,Revenue Analyst,Business Analyst,0.764
+117,Commercial Manager,Marketing Manager,0.772
+154,Senior Financial Accountant,Senior Fund Accountant,0.906
+4,Technical Account Manager,Account Manager,0.826
+113,Accounting Manager,Management Accountant,0.843
+241,Senior Process Analyst,System Analyst,0.594
+79,Senior Financial Analyst,Financial Analyst,0.842
+145,Senior Regulatory Analyst,Regulatory Officer,0.769
+230,Digital Analytics Consultant (Adobe),Analytics Manager,0.585
+128,Operations Manager,Operations Manager,1.0
+79,Senior Financial Analyst,Financial Analyst,0.842
+525,Regional Sales Head,Sales Executive,0.585
+24,Business Analyst,Business Analyst,1.0
+200,Senior Product Designer,Product Designer,0.782
+200,Lead Product Designer,Product Designer,0.757
+227,Senior Data Engineer - GCP Migration,Data Infrastructure Engineer,0.459
+519,Credit VP - Distressed Credit,Credit Manager,0.518
+517,Banking Team Leader,Banking Officer,0.697
+525,Sales Executive,Sales Executive,1.0
+519,Mortgage Processing Manager,Credit Manager,0.581
+41,Senior Client Manager (Remote),Client Relations Officer,0.596
+231,Director - Analytics (Media & Marketing Focus),Director of Analytics and Data Science,0.58
+518,AR Ops Analyst,Analyst,0.665
+128,Sales Operations Manager,Operations Manager,0.828
+24,Senior Business Analyst,Business Analyst,0.859
+78,Finance Manager,Finance Manager,1.0
+196,Recruiter- Systematic Trading,Recruiter,0.618
+217,SBA Quality Assurance Lead,Big Data Lead,0.5
+148,IT RISK AND CONTROLS / GRC Consultant,Risk Manager,0.552
+6,Non-QM National Account Executives,Accounts Executive,0.583
+186,Commercial Underwriter,Underwriter,0.79
+186,Commercial Underwriter,Underwriter,0.79
+24,Lead Business Analyst- Costpoint,Business Analyst,0.563
+147,Risk Consultant,Risk Analyst,0.817
+221,Business Transformation Manager,Business Development Manager,0.698
+78,Finance Manager,Finance Manager,1.0
+6,National Account Executive,Accounts Executive,0.822
+24,Lead Business Analyst,Business Analyst,0.766
+84,Fund Accounting Manager,Fund Accountant,0.846
+178,Senior Technical Writer,Technical Writer,0.837
+215,Java Developer,Java Engineer,0.887
+26,Business Development Executive - Cybersecurity,Business Development,0.659
+6,Enterprise Account Executive (HCM) UK/I,Accounts Executive,0.619
+118,Marketing Executive -- Remote working,Marketing Specialist,0.612
+6,Account Executive,Accounts Executive,0.985
+75,Marketing Executive - Financial Publishing,Digital Marketing Executive,0.594
+525,Paid Search Executive,Sales Executive,0.523
+6,Senior Account Executive,Accounts Executive,0.892
+74,All Levels - Social and Market Research,Digital Marketer,0.488
+177,Bilingual Sales Manager (B2B Software Sales, Adtech) - UK HOME BASED,Technical sales manager,0.531
+4,Account Manager,Account Manager,1.0
+179,Buyer,Trader,0.628
+151,Senior Cyber Security Analyst,Security Analyst,0.855
+153,Senior Research Executive - Bristol,Senior Corporate Administrator,0.578
+146,Partner Sales Manager,Relationship Manager,0.685
+77,Executive Assistant,Executive Assistant,1.0
+138,PPC Executive,PPC Specialist,0.809
+6,Account Executive,Accounts Executive,0.985
+6,Account Executive (Remote),Accounts Executive,0.786
+6,Account Executive,Accounts Executive,0.985
+6,Strategic Account Executive,Accounts Executive,0.826
+525,Sales Executive,Sales Executive,1.0
+525,Remote Sales Executive,Sales Executive,0.733
+6,Account Executive,Accounts Executive,0.985
+176,Enterprise Sales Executive - Enterprise Software/ SaaS - Remote in CA,Technical sales executive,0.484
+6,Enterprise Account Executive,Accounts Executive,0.849
+6,Account Executive,Accounts Executive,0.985
+6,Enterprise Account Executive,Accounts Executive,0.849
+525,Executive Event Producer,Sales Executive,0.518
+23,Business Development Executive - Broker Channel,Broker,0.563
+6,Enterprise Key Account Executive,Accounts Executive,0.686
+196,Executive Recruitment Consultant,Recruiter,0.583
+525,Senior Sales Executive,Sales Executive,0.913
+6,Enterprise Account Executive,Accounts Executive,0.849
+221,Business Development Executive,Business Development Manager,0.835
+221,Senior Business Development Manager,Business Development Manager,0.879
+6,Enterprise Account Executive,Accounts Executive,0.849
+75,Sales and Digital Marketing Executive,Digital Marketing Executive,0.906
+176,Engineering Agency Sales Executive,Technical sales executive,0.727
+176,Engineering Agency Sales Executive,Technical sales executive,0.727
+176,Engineering Agency Sales Executive,Technical sales executive,0.727
+66,Sr. Data Scientist,Data Scientist,0.82
+66,Data Scientist,Data Scientist,1.0
+63,Data Scientist / Engineer,Data Engineer,0.921
+66,Statistician,Data Scientist,0.512
+197,Machine Learning Engineer,Software Engineer,0.688
+63,Machine Learning Ops and Data Engineer,Data Engineer,0.665
+66,Data Scientist,Data Scientist,1.0
+66,Data Scientist (6 Month Contract),Data Scientist,0.657
+60,Data Analyst,Data Analyst,1.0
+230,Analytics Consultant,Analytics Manager,0.795
+66,Sr. Data Scientist,Data Scientist,0.82
+63,Data Engineer,Data Engineer,1.0
+66,Staff Data Scientist - 6mo Contract,Data Scientist,0.529
+66,Senior Data Scientist,Data Scientist,0.809
+24,Junior Business Analyst,Business Analyst,0.877
+63,Machine Learning Engineer, HPC (Remote),Data Engineer,0.464
+60,Data Analyst,Data Analyst,1.0
+60,Data Analyst,Data Analyst,1.0
+206,ML/NLU Engineer (Upto $200k + Equity),Front End Engineer,0.487
+230,Analytics Manager,Analytics Manager,1.0
+63,Data Engineer,Data Engineer,1.0
+66,Staff Machine Learning Scientist, NLP,Data Scientist,0.533
+63,Data Engineer,Data Engineer,1.0
+63,Data Analytics Engineer,Data Engineer,0.831
+67,Manager of Machine Learning,Data Scientist Manager,0.641
+64,Global Director, Data Security Engineering,Data Engineering Manager,0.558
+153,Senior Statistician,Senior Corporate Administrator,0.618
+217,Advanced Analytics Lead,Big Data Lead,0.649
+235,Staff Software Engineer (Python, ML),Python Developer,0.678
+63,Remote Data Engineer,Data Engineer,0.82
+197,Senior Software Engineer- Machine Learning,Software Engineer,0.644
+60,Data Governance Analyst,Data Analyst,0.642
+197,Senior Machine Learning Engineer,Software Engineer,0.605
+66,Data Scientist,Data Scientist,1.0
+66,Data Scientist,Data Scientist,1.0
+60,Data Analyst,Data Analyst,1.0
+232,Data Quality Manager (Remote),Data Quality Specialist,0.622
+64,Manager of Real World Data Engineering & Solutions,Data Engineering Manager,0.85
+63,Data Engineer,Data Engineer,1.0
+518,Principal Researcher,Analyst,0.518
+4,Technical Account Manager (AdTech),Account Manager,0.709
+226,DevOps Engineer,DevOps Engineer,1.0
+60,Business Data Analyst,Data Analyst,0.888
+63,Data Engineer,Data Engineer,1.0
+146,Engagement Manager,Relationship Manager,0.637
+244,Security Operations Manager,Information Security Manager,0.851
+99,Audit Manager,Internal Audit Manager,0.883
+154,Senior Fund Accountant,Senior Fund Accountant,1.0
+5,Accountant,Accountant,1.0
+518,Compensation Analyst,Analyst,0.678
+113,Sarbanes Oxley Manager,Management Accountant,0.553
+5,Staff Accountant,Accountant,0.861
+25,Information Governance Business Analyst,Business Analyst - IT,0.611
+154,Senior Accountant-Remote-Must live in Southern California-High Growth!,Senior Fund Accountant,0.537
+154,Senior Revenue Accountant,Senior Fund Accountant,0.843
+5,Accountant,Accountant,1.0
+154,Senior Accountant,Senior Fund Accountant,0.878
+113,Senior Accountant/Accounting Supervisor,Management Accountant,0.795
+154,Senior Accountant,Senior Fund Accountant,0.878
+154,Senior Accountant,Senior Fund Accountant,0.878
+154,Senior Staff Accountant,Senior Fund Accountant,0.861
+84,Fund Accounting Manager,Fund Accountant,0.846
+80,Fund Controller (100% remote),Financial Controller,0.552
+4,Accounts Payable Manager,Account Manager,0.803
+5,Commercial Real Estate Property Accountant,Accountant,0.646
+94,Temporary HRIS Specialist,HR Officer,0.608
+101,Senior Internal Auditor,Internal Auditor,0.851
+59,Cyber Risk & Control Manager (Remote, US),Cyber Security,0.594
+101,Senior Internal Auditor,Internal Auditor,0.851
+5,Certified Public Accountant,Accountant,0.783
+5,Accountant,Accountant,1.0
+48,Mergers and Acquisitions Manager,Consolidations Manager,0.602
+113,Accounting Manager,Management Accountant,0.843
+154,Senior Accounts Payable,Senior Fund Accountant,0.591
+172,Tax Manager - Full Remote,Tax Professional,0.526
+19,Bookkeeper,Bookkeeper,1.0
+133,Accounts Payable Specialist,Payment Specialist,0.707
+45,Compliance Manager,Compliance Manager,1.0
+65,GDPR Officer,Data Protection Officer,0.692
+245,Head of Immigration – Remote Role,Head of Security,0.446
+86,General Counsel,General Manager,0.647
+4,Account Coordinator,Account Manager,0.789
+244,Senior Security Operations Manager,Information Security Manager,0.805
+188,Estates Manager,Wealth Manager,0.679
+196,Recruitment Administrator,Recruiter,0.749
+117,Marketing Manager – Engagement, European / International Financial Services,Marketing Manager,0.69
+111,Legal Counsel,Lawyer,0.766
+518,GRC Analyst,Analyst,0.655
+524,Product Counsel,Product Officer,0.723
+86,Contract Manager,General Manager,0.673
+32,Chief People Officer,Chief Officer - HR,0.781
+162,Program Manager,Software Development Manager,0.714
+95,Information Security Officer,Information Security Specialist,0.873
+111,Legal Counsel,Lawyer,0.766
+41,Contracts Counsel Remote Temp. Part time,Client Relations Officer,0.355
+145,Director of Regulatory Affairs,Regulatory Officer,0.789
+87,Associate General Counsel - Venture Capital,Head of Corporate Services,0.513
+45,Remote Environmental Compliance Specialist,Compliance Manager,0.657
+169,ESOP Administrator,System Administrator,0.654
+152,Security Consultant,Security Specialist,0.828
+139,Clinical Trial Manager (100 %REMOTE),Product Manager,0.4
+192,AML Investigator (REMOTE),AML Officer,0.652
+86,Contract Manager,General Manager,0.673
+139,Clinical Trial Manager (100 %REMOTE),Product Manager,0.4
+131,Head of People | Series C SaaS Scale-Up | Boston/Remote,Partner - Accountancy,0.345
+134,Head of Payroll, Governance & Compliance,Payroll,0.663
+139,Event Manager,Product Manager,0.554
+160,Junior Developer,Software Developer,0.7
+197,Software Engineer,Software Engineer,1.0
+207,Full Stack Engineer,Full Stack Engineer,1.0
+197,Software Engineer,Software Engineer,1.0
+197,Software Engineer - Fully Remote,Software Engineer,0.581
+160,Software Developer,Software Developer,1.0
+14,Back End Developer,Back End Developer,1.0
+215,Java Developer / Java Engineer,Java Engineer,0.915
+215,Java Software Engineer,Java Engineer,0.949
+207,Full Stack Engineer,Full Stack Engineer,1.0
+215,Java Developer,Java Engineer,0.887
+82,Javascript Developer - Remote and Equity,Front End Developer,0.475
+215,Java Software Engineer,Java Engineer,0.949
+14,Back End Developer,Back End Developer,1.0
+197,Junior Software Engineer,Software Engineer,0.799
+83,Full Stack Developer,Full Stack Developer,1.0
+215,Java Software Engineer,Java Engineer,0.949
+83,Mid/Senior Full Stack Developer £60,000-£80,000,Full Stack Developer,0.621
+158,Java Developer Role - Fully Remote,Sharepoint Developer,0.554
+83,Full Stack Developer,Full Stack Developer,1.0
+207,Full Stack Engineer,Full Stack Engineer,1.0
+215,Java Developer,Java Engineer,0.887
+215,Java Developer,Java Engineer,0.887
+83,Full Stack Developer,Full Stack Developer,1.0
+215,Senior Java Developer,Java Engineer,0.786
+82,Frontend Developer,Front End Developer,0.97
+83,Fullstack Developer,Full Stack Developer,0.73
+207,Full Stack Engineer,Full Stack Engineer,1.0
+160,£85k Fully Remote Software Developer,Software Developer,0.526
+83,Senior Full Stack Developer,Full Stack Developer,0.833
+197,Software Engineer,Software Engineer,1.0
+158,Javascript Developer,Sharepoint Developer,0.675
+153,Senior Software Engineer - Multiple Fully Remote Roles,Senior Corporate Administrator,0.538
+235,Software Developer - C#, Java or Python,Python Developer,0.733
+197,Senior Software Engineer,Software Engineer,0.773
+215,Lead Java Developer,Java Engineer,0.665
+215,Principal Java Software Engineer,Java Engineer,0.848
+213,JavaScript Developer - TS, React, Node - Tech-for-good, climate change - £100K,React Developer,0.604
+214,C# Software Engineer / £60k / 100% Remote / UK HQ,.NET Developer,0.508
+197,VP of Software Engineering,Software Engineer,0.726
+214,Dotnet Developer,.NET Developer,0.829
+197,Software Engineer,Software Engineer,1.0
+82,Frontend Developer,Front End Developer,0.97
+120,Android Developer,Mobile Developer,0.771
+82,Frontend Developer,Front End Developer,0.97
+82,Frontend Developer,Front End Developer,0.97
+160,Senior Developer,Software Developer,0.69
+82,Frontend Developer,Front End Developer,0.97
+82,Frontend Developer,Front End Developer,0.97
+215,Senior Java Software Engineer,Java Engineer,0.846
+214,Dotnet Developer,.NET Developer,0.829
+215,4 x Senior Java Developers - AI Platform build,Java Engineer,0.595
+189,Web Developer,Web Developer,1.0
+160,Polyglot Software Engineer,Software Developer,0.525
+197,Embedded Software Engineer,Software Engineer,0.721
+160,Game Developer,Software Developer,0.764
+215,Lead Java Software Engineer,Java Engineer,0.747
+163,Lead Software Engineer,Software Development Team Lead,0.69
+235,Python Developer,Python Developer,1.0
+214,C# Developer,.NET Developer,0.861
+163,Software Engineering Team Lead - Remote - up to £80k,Software Development Team Lead,0.588
+214,Dotnet Developer,.NET Developer,0.829
+214,.Net Developer,.NET Developer,1.0
+214,Dotnet Developer,.NET Developer,0.829
+214,Dotnet Developer,.NET Developer,0.829
+82,Frontend Developer,Front End Developer,0.97
+72,Head Of Development,Development Analyst,0.656
+82,Front End Developer - React - Up to £80K + Benefits,Front End Developer,0.577
+240,Cloud Engineer,Cloud & Infrastructure Engineer,0.901
+214,C# .NET Developer,.NET Developer,0.902
+197,Research Engineer | Deep Learning | Computer Vision,Software Engineer,0.543
+213,£6ok Fully Remote Frontend Developer - React.js,React Developer,0.664
+168,C# Developer - Remote / SQL / Backend / Unit Testing,SQL Developer,0.505
+197,Senior Software Engineer,Software Engineer,0.773
+120,Android Developer,Mobile Developer,0.771
+189,Vanilla Javascript Developer - £52,000 - £70,000,Web Developer,0.539
+249,Senior Software Engineer (Javascript / Node),Node Developer,0.669
+214,Senior Developer - C#, .Net Core, TDD,.NET Developer,0.581
+83,Mid/Senior Full Stack Developer | Digital Design Agency | Remote | £65,000,Full Stack Developer,0.577
+206,Lead Front-end Engineer,Front End Engineer,0.714

@@ -1,0 +1,500 @@
+197,Software Engineer,Software Engineer,1.0
+83,Full Stack Developer .NET,Full Stack Developer,0.857
+197,Senior Software Engineer,Software Engineer,0.773
+82,Frontend Developer,Front End Developer,0.97
+159,Software Architect,Software Architect,1.0
+215,Junior Java Developer/Implementation Manager,Java Engineer,0.749
+220,Senior QA Automation Engineer,QA Engineer,0.798
+158,Senior Salesforce Developer,Sharepoint Developer,0.726
+83,Full Stack Developer,Full Stack Developer,1.0
+197,Software Engineer - InsurTech,Software Engineer,0.838
+82,Frontend Developer,Front End Developer,0.97
+197,Consulting Software Engineer,Software Engineer,0.742
+207,Full Stack Engineer,Full Stack Engineer,1.0
+215,Senior Java Developer,Java Engineer,0.786
+14,Backend / Full stack Developer For a Long Relationship,Back End Developer,0.643
+207,Full Stack Engineer,Full Stack Engineer,1.0
+63,Big Data Developer,Data Engineer,0.716
+14,Back End Developer,Back End Developer,1.0
+227,Hadoop Developer,Data Infrastructure Engineer,0.491
+197,Senior Software Engineer,Software Engineer,0.773
+215,Java Software Engineer,Java Engineer,0.949
+197,Senior Software Engineer,Software Engineer,0.773
+82,Frontend Developer,Front End Developer,0.97
+215,Java Developer | Contract/Permanent | Canada,Java Engineer,0.513
+160,Oracle FCC Studio Developer,Software Developer,0.51
+14,Hybris Developer,Back End Developer,0.555
+168,Full Stack Engineer - Angular SQL - REMOTE,SQL Developer,0.413
+228,Lead Engineer,Head of Engineering,0.655
+24,Business analyst (ERP),Business Analyst,0.788
+177,Sales Development Representative (SDR),Technical sales manager,0.534
+14,Back End Developer,Back End Developer,1.0
+63,Data Engineer,Data Engineer,1.0
+197,Senior Software Engineer,Software Engineer,0.773
+215,Java développeur,Java Engineer,0.561
+197,Senior Consulting Software Engineer,Software Engineer,0.647
+114,Technical Director,Managing Director,0.704
+131,Finance Business Partner,Partner - Accountancy,0.681
+517,Administrator - Banking,Banking Officer,0.769
+151,Security Operations Center Analyst,Security Analyst,0.878
+63,Data Engineer,Data Engineer,1.0
+525,Head Of Sales - Sponsorship,Sales Executive,0.577
+162,Research and Development Manager,Software Development Manager,0.732
+80,Controller,Financial Controller,0.565
+79,Senior Financial Analyst,Financial Analyst,0.842
+83,Full-Stack Software Developer,Full Stack Developer,0.936
+248,AWS Cloud Engineer & Development Team Manager,AWS Cloud Engineer,0.826
+520,Financial Services Professional,Finance Officer,0.727
+140,Technical Product Owner,Product Owner,0.861
+78,Senior Finance Manager (Remote to Hybrid),Finance Manager,0.646
+79,Financial Business Analyst,Financial Analyst,0.929
+113,Accounting Manager,Management Accountant,0.843
+137,Portfolio Manager,Portfolio Manager,1.0
+78,Financial Planning and Analysis Manager,Finance Manager,0.776
+103,Independent Financial Advisor,Investment Advisor,0.73
+78,Finance Manager,Finance Manager,1.0
+525,Marketing Executive,Sales Executive,0.811
+80,Financial Controller (Land),Financial Controller,0.774
+58,Customer Success Manager,Customer operations manager,0.74
+221,Business Development Executive,Business Development Manager,0.835
+520,Financial Services Representative,Finance Officer,0.699
+46,Complaints Officer,Compliance Officer,0.642
+116,Campaign Assistant,Marketing Assistant,0.64
+118,Sales Specialist,Marketing Specialist,0.809
+134,Assistant Payroll Manager,Payroll,0.729
+244,SEC Reporting Manager,Information Security Manager,0.574
+19,Accounting Bookkeeper,Bookkeeper,0.851
+128,Operation Analyst (Mandarin Speaking),Operations Manager,0.623
+24,Entry Level Business Analyst,Business Analyst,0.841
+221,Healthcare Business Development Manager,Business Development Manager,0.786
+75,D&A Delivery Lead,Digital Marketing Executive,0.405
+98,Corporate Manager of Integration,Integration Specialist,0.708
+84,fund accountants,Fund Accountant,0.928
+79,Finance Analyst,Financial Analyst,0.955
+79,Finance Analyst,Financial Analyst,0.955
+52,Credit Analyst (Mandarin Speaking),Credit Analyst,0.792
+79,Senior Financial Analyst,Financial Analyst,0.842
+186,Credit Underwriter,Underwriter,0.722
+520,Director of Finance,Finance Officer,0.754
+79,Financial Analyst,Financial Analyst,1.0
+133,Payment Operations Analyst,Payment Specialist,0.752
+523,Accounts Assistant,Accounts Clerk,0.764
+29,Client Lead CFO,Chief Financial Officer (CFO),0.571
+520,Head Of Finance,Finance Officer,0.777
+79,SEC Reporting Analyst,Financial Analyst,0.688
+44,Evening Legal Secretary remote,Company Secretary,0.506
+73,Linux Infrastructure Team Lead – Networks / DevOps / Microsoft - £90,000 – FULLY REMOTE!,DevOps,0.515
+60,Data Analyst II Requisition,Data Analyst,0.694
+183,Vice President,Treasury Officer,0.499
+154,CPA/Senior Accountant for Growing Cryptocurrency Advisory Practice,Senior Fund Accountant,0.564
+114,Director Of Operations - Escrow,Managing Director,0.513
+60,Business Data Analyst,Data Analyst,0.888
+221,Junior Business Development Associate,Business Development Manager,0.662
+24,Enterprise Performance Consulting,Business Analyst,0.538
+78,Client Finance Manager,Finance Manager,0.751
+215,Java Software Engineer,Java Engineer,0.949
+223,Azure Cloud Services + Big Data,Azure Database Lead,0.49
+153,Senior Campaign Executive,Senior Corporate Administrator,0.617
+525,Sales Executive,Sales Executive,1.0
+6,Enterprise Account Executive,Accounts Executive,0.849
+6,Enterprise Account Executive,Accounts Executive,0.849
+251,German Speaking Social Media Executive - Work From Home,Social Media Specialist,0.545
+76,Manager, Change & Communications, Digital & Technology,Digital Marketing Manager,0.691
+116,Marketing Assistant,Marketing Assistant,1.0
+237,Lead Power Systems Engineer (Grid Connections),Infrastructure Engineer,0.421
+118,Event Marketing Specialist - Graduate,Marketing Specialist,0.681
+9,Financial Administrative Assistant,Administration Assistant,0.764
+526,Electronic Technician,Technical Engineer,0.691
+200,Senior Product Designer,Product Designer,0.782
+520,Payroll & Finance Administrator,Finance Officer,0.704
+180,Events and Continuous Education Manager,Training Manager,0.523
+180,Programme Manager,Training Manager,0.686
+77,Remote Executive Assistant,Executive Assistant,0.825
+6,Account Executive,Accounts Executive,0.985
+142,Bilingual Support Specialist,Product Support Specialist,0.544
+6,Account Executive,Accounts Executive,0.985
+4,Account Manager,Account Manager,1.0
+6,Account Executive,Accounts Executive,0.985
+6,Senior Account Executive (Consumer Goods),Accounts Executive,0.757
+6,PR Senior Account Executive,Accounts Executive,0.761
+146,Vendor Relationship Manager,Relationship Manager,0.709
+6,Account Executive,Accounts Executive,0.985
+6,Account Executive,Accounts Executive,0.985
+6,Senior Account Executive,Accounts Executive,0.892
+6,Account Executive,Accounts Executive,0.985
+4,Account Manager,Account Manager,1.0
+131,Director Bank Partnerships,Partner - Accountancy,0.577
+519,Credit and Collections Specialist,Credit Manager,0.731
+6,Account Executive,Accounts Executive,0.985
+41,Client Experience Specialist,Client Relations Officer,0.71
+6,Account Executive,Accounts Executive,0.985
+525,Partnership Executive ,Sales Executive,0.639
+525,Sales Executive,Sales Executive,1.0
+196,Recruiting Assistant,Recruiter,0.711
+6,Digital Account Executive,Accounts Executive,0.796
+77,Executive Assistant,Executive Assistant,1.0
+6,PR Senior Account Executive,Accounts Executive,0.761
+21,Just Eat | Nottingham | Sales Executive,Brand Manager,0.391
+6,Senior Account Executive,Accounts Executive,0.892
+116,Sales Assistant,Marketing Assistant,0.761
+6,Internal Account Executive,Accounts Executive,0.857
+111,Law Clerk / Legal Assistant,Lawyer,0.567
+67,Senior Data Consultant,Data Scientist Manager,0.669
+9,Administrative Assistant - 6 months - Immediate Start,Administration Assistant,0.591
+66,Data Scientist,Data Scientist,1.0
+62,Systems & Data Assistant,Data Architect,0.654
+111,Legal and Contracts Manager,Lawyer,0.557
+60,Data Analyst/Data Scientists,Data Analyst,0.884
+4,Remote Marketing Account Manager - B2B Martech Experts. c£50K,Account Manager,0.524
+66,Data Science Technical Advisor,Data Scientist,0.776
+55,Managing Consultant (Full Time ,100% Remote),CRM Functional consultant,0.514
+77,Executive Assistant,Executive Assistant,1.0
+63,Data Engineer,Data Engineer,1.0
+77,Remote Executive Assistant,Executive Assistant,0.825
+6,Account Executive,Accounts Executive,0.985
+63,Data Engineer,Data Engineer,1.0
+197,Software Engineer - Integrations,Software Engineer,0.702
+6,Account Executive,Accounts Executive,0.985
+251,B2B Social Media Account Executive,Social Media Specialist,0.599
+63,Data Engineer,Data Engineer,1.0
+77,Executive Assistant,Executive Assistant,1.0
+189,HTML Developer,Web Developer,0.779
+168,Database Developer,SQL Developer,0.873
+77,Executive Assistant,Executive Assistant,1.0
+230,Analytics Engineer,Analytics Manager,0.812
+66,Senior Data Scientist,Data Scientist,0.809
+63,Data Engineer,Data Engineer,1.0
+6,Account Executive,Accounts Executive,0.985
+6,Senior Account Executive,Accounts Executive,0.892
+60,Data Analyst,Data Analyst,1.0
+6,Account Executive,Accounts Executive,0.985
+134,Sales Executive - HCM & Payroll,Payroll,0.628
+116,Personal Assistant to Entrepreneur,Marketing Assistant,0.59
+171,Financial Services Auditor (Remote),Systems Auditor,0.649
+154,Senior Accountant,Senior Fund Accountant,0.878
+6,Enterprise Account Executive,Accounts Executive,0.849
+101,Lead Quality Auditor,Internal Auditor,0.565
+77,Executive Administrative Assistant,Executive Assistant,0.944
+6,Full-Cycle Account Executive (Remote),Accounts Executive,0.662
+6,Sr. Account Executive,Accounts Executive,0.885
+525,Podcast Ad Sales Executive,Sales Executive,0.554
+6,SEO Account Executive,Accounts Executive,0.743
+6,New Business Account Executive,Accounts Executive,0.769
+6,Regional Account Executive,Accounts Executive,0.756
+6,Senior Account Executive,Accounts Executive,0.892
+28,Editor In Chief,Chief Executive Officer (CEO),0.528
+116,Ducting Technician / Trade Assistant,Marketing Assistant,0.472
+77,Executive Assistant,Executive Assistant,1.0
+9,Administrative Assistant,Administration Assistant,0.949
+116,Marketing Assistant,Marketing Assistant,1.0
+525,Sales Development Representative,Sales Executive,0.712
+217,Data Science Lead (remote),Big Data Lead,0.698
+123,Network Solutions Engineer,Networks Engineer,0.897
+149,Clinical Research Fellow (Psychiatry),Salesforce Specialist,0.351
+66,Research Analyst/Junior Data Scientist,Data Scientist,0.803
+66,Data Scientist,Data Scientist,1.0
+60,Data Analyst,Data Analyst,1.0
+197,Computer Vision Engineer,Software Engineer,0.701
+63,Data Engineer,Data Engineer,1.0
+63,Data Engineer,Data Engineer,1.0
+58,Ecommerce Coordinator,Customer operations manager,0.549
+197,Software Engineer,Software Engineer,1.0
+229,Robotic Process Automation Consultant,Test Automation Engineer,0.567
+24,Business Analyst,Business Analyst,1.0
+63,Data Engineer II - Remote,Data Engineer,0.666
+227,Data Integration Engineer,Data Infrastructure Engineer,0.798
+61,Data Reporting Analyst - Remote,Data and Reporting Developer,0.712
+63,Data Engineer,Data Engineer,1.0
+205,Senior Backend Software Engineer,Backend Engineer,0.744
+63,Data Engineer,Data Engineer,1.0
+67,Data Engineer / Scientist — Healthcare Analytics Startup,Data Scientist Manager,0.597
+60,Information / Data Management Analyst,Data Analyst,0.822
+131,Quality Assurance Business Partner,Partner - Accountancy,0.541
+3,3rd Level Technical Support Specialist - Workspace Technology,3rd Line Technical Support,0.623
+5,Financial Accountant - German Speaking,Accountant,0.696
+99,Audit Manager,Internal Audit Manager,0.883
+154,Senior Accountant,Senior Fund Accountant,0.878
+5,Accountant II,Accountant,0.858
+45,Senior Compliance Manager - Swap Dealer,Compliance Manager,0.606
+41,Client Advisor - Cloud Accountant, Business Advisor, and Relationship Manager,Client Relations Officer,0.606
+151,Information Security Analyst (Remote),Security Analyst,0.802
+151,Security Analyst,Security Analyst,1.0
+24,Business Continuity/Disaster Recovery Analyst,Business Analyst,0.57
+24,Business Analyst,Business Analyst,1.0
+5,Sr. Accountant,Accountant,0.834
+113,Corporate Staff Accountant,Management Accountant,0.827
+154,Senior Accountant,Senior Fund Accountant,0.878
+24,Business Analyst,Business Analyst,1.0
+14,Software Engineer (Back End),Back End Developer,0.82
+14,Back End Developer,Back End Developer,1.0
+215,Java Software Engineer,Java Engineer,0.949
+197,Software Engineer,Software Engineer,1.0
+160,Senior Software Developer,Software Developer,0.794
+207,Full Stack Engineer,Full Stack Engineer,1.0
+14,Remote Video Game Programmer (UK),Back End Developer,0.472
+207,Full Stack Engineer,Full Stack Engineer,1.0
+83,Full Stack Software Developer,Full Stack Developer,0.949
+168,SQL Developer,SQL Developer,1.0
+83,Mid-Level Full Stack Developer,Full Stack Developer,0.913
+215,Senior Java Software Engineer - Java 8+, Maven/Gradle, RESTful, Microservices, AWS/Azure,Java Engineer,0.581
+197,Embedded Software Engineer,Software Engineer,0.721
+82,Frontend Developer,Front End Developer,0.97
+521,Senior Credit Risk Review Officer - Coml,Risk Officer,0.598
+82,Frontend Developer,Front End Developer,0.97
+82,Frontend Developer,Front End Developer,0.97
+214,Unity Game Developer,.NET Developer,0.63
+217,Data Privacy Lead Counsel,Big Data Lead,0.616
+6,Account Executive, Client Solutions - Remote,Accounts Executive,0.612
+6,Strategic Account Executive,Accounts Executive,0.826
+6,Software Consulting Account Executive,Accounts Executive,0.682
+166,Solution Engineer,Solutions Architect,0.81
+158,Unreal Engine Developer/Programmer,Sharepoint Developer,0.593
+45,IS Governance, Risk, and Compliance Supervisor,Compliance Manager,0.679
+523,Accounting Clerk,Accounts Clerk,0.84
+169,Client Services Administrator,System Administrator,0.657
+158,C++ Developer/ Polyglot,Sharepoint Developer,0.472
+206,Front End Engineer,Front End Engineer,1.0
+63,Data Engineer,Data Engineer,1.0
+175,Software Project Manager,Technical Project Manager,0.842
+235,Python Developer (Django/ Docker, Numpy, Scipy, React) - Fintech - Fully Flexible Working! (up to 100k!),Python Developer,0.49
+215,Android Engineer - Kotlin / OpenGL ES,Java Engineer,0.452
+160,Senior Software Developer,Software Developer,0.794
+158,Mulesoft Developer,Sharepoint Developer,0.531
+213,Senior React and Django Engineer - U.K./Europe - fully remote,React Developer,0.492
+215,Java Technical Lead - Java 8+, Maven/Gradle, RESTful, Microservices, AWS/Azure,Java Engineer,0.488
+212,Ruby Developer,Ruby on Rails Developer,0.882
+214,Senior .NET Developer,.NET Developer,0.765
+64,Data & Systems Manager,Data Engineering Manager,0.768
+166,Customer Solutions Architect,Solutions Architect,0.811
+240,Cloud Architect,Cloud & Infrastructure Engineer,0.733
+162,Software Engineering Manager,Software Development Manager,0.878
+175,Technical Project Manager,Technical Project Manager,1.0
+206,Test Engineer - perm - remote - between £30-70K dep on level,Front End Engineer,0.445
+216,Senior PHP Engineer,PHP Developer,0.761
+176,Senior Technical Sales Engineer,Technical sales executive,0.761
+166,SC-Cleared Solution Architect,Solutions Architect,0.631
+63,Data Engineer,Data Engineer,1.0
+14,Lead Back End Web Developer,Back End Developer,0.722
+228,Head of Product Engineering,Head of Engineering,0.758
+74,Developer Product Marketer,Digital Marketer,0.676
+14,Back End Developer,Back End Developer,1.0
+14,Back End Software Engineer,Back End Developer,0.819
+197,Software Engineer,Software Engineer,1.0
+205,Backend Software Engineer (Mid-level or above),Backend Engineer,0.778
+197,Software Engineer,Software Engineer,1.0
+197,Mid-Level Software Engineer,Software Engineer,0.824
+215,Java J2Ee Developer (Entry Level),Java Engineer,0.666
+197,Software Engineer - Integrations,Software Engineer,0.702
+120,Front End / Mobile Software Engineer,Mobile Developer,0.74
+197,Software Engineer,Software Engineer,1.0
+235,Entry level Python Developer,Python Developer,0.864
+83,Full Stack Developer,Full Stack Developer,1.0
+197,Software Engineer,Software Engineer,1.0
+214,Unity Developer Intern,.NET Developer,0.551
+207,Full Stack Engineer,Full Stack Engineer,1.0
+197,Software Engineer,Software Engineer,1.0
+83,Full Stack Developer,Full Stack Developer,1.0
+161,Software Engineer In Test,Software Developer in Test,0.901
+235,Python Developer (Entry Level),Python Developer,0.879
+207,Full Stack Engineer,Full Stack Engineer,1.0
+205,Backend Engineer,Backend Engineer,1.0
+235,Senior Software Engineer (Python, Backend),Python Developer,0.732
+235,Python Developer,Python Developer,1.0
+207,Full Stack Software Engineer,Full Stack Engineer,0.897
+215,Java Software Engineer,Java Engineer,0.949
+235,Python Developer,Python Developer,1.0
+205,Backend Engineer,Backend Engineer,1.0
+197,Senior Software Engineer,Software Engineer,0.773
+207,Full Stack Engineer-Product Platform,Full Stack Engineer,0.752
+206,Front End Software Engineer,Front End Engineer,0.857
+83,Full Stack Developer - US based,Full Stack Developer,0.815
+215,Java UI Developer (Entry Level),Java Engineer,0.71
+197,Software Engineer,Software Engineer,1.0
+213,Entry-Level React Developer,React Developer,0.864
+197,Software Engineer - Artificial Intelligence (AI),Software Engineer,0.756
+197,Senior Software Engineer,Software Engineer,0.773
+207,Full Stack Engineer,Full Stack Engineer,1.0
+240,Web 3 API/Microservices Engineer,Cloud & Infrastructure Engineer,0.408
+215,Java Software Engineer,Java Engineer,0.949
+215,Java Web Developer,Java Engineer,0.802
+214,.NET Developer (Entry Level),.NET Developer,0.865
+207,Full Stack Engineer,Full Stack Engineer,1.0
+160,Application Developer,Software Developer,0.846
+205,Senior Backend Engineer,Backend Engineer,0.834
+83,Full-stack Developer (MERN),Full Stack Developer,0.788
+170,Systems Engineer - Web Servers,System Engineer,0.605
+229,QA/Test Automation Engineer,Test Automation Engineer,0.859
+116,Housing Market Data Research Assistant,Marketing Assistant,0.512
+123,Broadcast MCR Network Engineer,Networks Engineer,0.577
+249,Senior Software Engineer (Node.js)- VR/AR gaming,Node Developer,0.489
+233,Software QA & Release Analyst,QA Developer,0.754
+14,Back End Developer,Back End Developer,1.0
+153,Senior Development Specialist,Senior Corporate Administrator,0.714
+213,Senior Fullstack dev (C#/Azure/React),React Developer,0.553
+214,.Net Developer,.NET Developer,1.0
+241,Business System Analyst,System Analyst,0.87
+214,Senior .Net developer,.NET Developer,0.765
+14,Senior Backend Developer,Back End Developer,0.776
+215,Java Developer,Java Engineer,0.887
+249,Nodejs Developer,Node Developer,0.902
+197,Senior Software Engineer,Software Engineer,0.773
+235,Python Developer,Python Developer,1.0
+24,Associate Business Analyst,Business Analyst,0.871
+58,Customer Success Manager,Customer operations manager,0.74
+153,Senior NetSuite Administrator,Senior Corporate Administrator,0.688
+82,Senior Frontend Developer,Front End Developer,0.778
+120,Android Developer | Canada | Fully Remote,Mobile Developer,0.563
+151,Security Operations Center Analyst,Security Analyst,0.878
+216,Sr. PHP/JavaScript Engineer,PHP Developer,0.621
+52,Credit Analyst,Credit Analyst,1.0
+24,Financial Reporting Business Analyst,Business Analyst,0.812
+249,Full Stack Engineer - Node.js,Node Developer,0.677
+158,Javascript Developer | Canada,Sharepoint Developer,0.551
+52,Billing Analyst,Credit Analyst,0.75
+113,Sr. Accounting & Reporting Manager,Management Accountant,0.73
+80,Controller - Early Stage VC,Financial Controller,0.347
+10,Transaction Advisory Associate,Advisory Professional,0.561
+41,Client Financial Associate,Client Relations Officer,0.691
+221,Business Implementation Manager,Business Development Manager,0.705
+13,Audit Senior – Economic Crime,Audit professional,0.513
+520,Finance Assistant,Finance Officer,0.79
+81,Financial Crime Analytics Senior Consultant,Fraud Analyst,0.522
+221,Business Development Account Manager,Business Development Manager,0.801
+78,Finance Mentor,Finance Manager,0.712
+158,SAS Developer,Sharepoint Developer,0.593
+11,Affiliate Manager,Affiliates Manager,0.865
+134,US Payroll Consultant (Contract),Payroll,0.68
+111,Law Clerk,Lawyer,0.655
+111,Legal Assistant,Lawyer,0.636
+111,Commercial Lawyer,Lawyer,0.821
+80,Finance Controller,Financial Controller,0.935
+116,Customer Onboarding Assistant,Marketing Assistant,0.53
+166,Senior IAM SSO Solution Architect/Product Manager,Solutions Architect,0.684
+520,Finance Assistant,Finance Officer,0.79
+134,Payroll & Reporting Manager,Payroll,0.728
+52,Loan Credit Analyst,Credit Analyst,0.865
+78,Financial Reporting Director,Finance Manager,0.666
+179,Quantitative Trader,Trader,0.778
+196,Financial Recruiter,Recruiter,0.776
+114,Managing Director, Escrow Operations,Managing Director,0.609
+221,Business Implementation Manager,Business Development Manager,0.705
+154,Senior Accountant,Senior Fund Accountant,0.878
+251,Slovenian Speaking Social Media Executive - Permanent Work From Home,Social Media Specialist,0.472
+6,Executive Reporting,Accounts Executive,0.59
+72,Project Analyst,Development Analyst,0.775
+75,Digital Sales Executive,Digital Marketing Executive,0.869
+6,Account Executive,Accounts Executive,0.985
+9,Personal Assistant,Administration Assistant,0.686
+170,Service Engineer, Laboratory Instrumentation,System Engineer,0.594
+114,Director Of Operations - Escrow,Managing Director,0.513
+71,Registered Nurse Infusions Cumbria,Depositary Specialist,0.233
+60,Data Analyst,Data Analyst,1.0
+60,Data Analyst,Data Analyst,1.0
+66,Data Scientist (RWE),Data Scientist,0.777
+58,Customer Success Manager,Customer operations manager,0.74
+188,Wealth Management Administrator,Wealth Manager,0.873
+182,Senior Treasury Consultant Transaction Reporting,Treasury Manager,0.607
+517,Banking Client Care Manager,Banking Officer,0.627
+205,Backend Engineer (Scala),Backend Engineer,0.642
+63,Director of Data Engineering,Data Engineer,0.787
+24,Sr. Business Analyst - Banking,Business Analyst,0.725
+60,Data Analyst,Data Analyst,1.0
+58,Customer Success Manager,Customer operations manager,0.74
+525,Sales Development Representative,Sales Executive,0.712
+63,Senior Data Engineer (Data Science/Analytics Tech),Data Engineer,0.789
+139,Director of Product Management,Product Manager,0.794
+117,Senior Marketing Communications Manager,Marketing Manager,0.816
+60,Data and Business Intelligence Analyst,Data Analyst,0.847
+139,Jr Product Manager,Product Manager,0.763
+24,Salesforce Business Analyst,Business Analyst,0.929
+24,Business Analyst with Actimize,Business Analyst,0.816
+175,Senior Business Project Manager,Technical Project Manager,0.752
+113,Governance & Assurance Officer - Basildon Council,Management Accountant,0.518
+13,Product Audit Analyst - Remote,Audit professional,0.552
+78,Banking Agile Project Manager,Finance Manager,0.556
+525,Sales Executive,Sales Executive,1.0
+117,Sr. Manager, Product Marketing (Zelle),Marketing Manager,0.694
+525,Sales Development Representative,Sales Executive,0.712
+43,Consumer Lending Talent Acquisition Specialist,Commercial Banker,0.56
+162,Program Manager,Software Development Manager,0.714
+128,Operations Analyst,Operations Manager,0.772
+525,Senior Sales Executive,Sales Executive,0.913
+68,Senior Postgre SQL DBA - Remote,DBA,0.41
+77,Executive Assistant (Remote),Executive Assistant,0.823
+196,Supply Chain & Logistics Executive Recruiter,Recruiter,0.628
+42,Cloud Consultant,Cloud Specialist,0.779
+145,Regulatory Specialist,Regulatory Officer,0.875
+24,Workforce Management Analyst,Business Analyst,0.706
+6,Emerging Account Executive,Accounts Executive,0.786
+525,Solution Sales Executive - State Government,Sales Executive,0.635
+149,Contract Specialist,Salesforce Specialist,0.683
+47,Formulary Validation Reviewer-769830 (remote),Compliance Regtech,0.324
+110,Case Manager,IT Manager,0.581
+113,Management Accountant,Management Accountant,1.0
+196,Recruitment Resourcer,Recruiter,0.721
+520,Accounting/Finance Executive Recruiter,Finance Officer,0.65
+6,Senior Account Executive - REMOTE - US,Accounts Executive,0.708
+525,Senior Solutions Sales Executive,Sales Executive,0.765
+79,Budget Analyst,Financial Analyst,0.731
+77,Remote Executive Assistant,Executive Assistant,0.825
+6,Mid-Market Account Executive - REMOTE - US,Accounts Executive,0.646
+6,Advertising Account Executive,Accounts Executive,0.76
+78,Revenue Manager,Finance Manager,0.68
+142,Onboarding & Support Specialist,Product Support Specialist,0.703
+79,Planning and Budget Analyst / Financial Analyst,Financial Analyst,0.674
+154,Senior Staff Accountant,Senior Fund Accountant,0.861
+79,Financial Analyst,Financial Analyst,1.0
+147,Quality Risk Analyst,Risk Analyst,0.854
+128,Sales Operations Manager,Operations Manager,0.828
+235,Senior Data Engineer (Python) - Remote,Python Developer,0.606
+1,Senior Technical BA - Telecom - 100% REMOTE in Canada,1st Line Technical Support,0.379
+66,Data Scientist,Data Scientist,1.0
+66,Data Scientist,Data Scientist,1.0
+147,Risk Analyst - Advanced Analytics,Risk Analyst,0.774
+147,Senior Risk Analyst - Advanced Analytics,Risk Analyst,0.745
+525,Marketing Executive,Sales Executive,0.811
+525,Sales Account Executive,Sales Executive,0.86
+75,Digital Marketing Executive,Digital Marketing Executive,1.0
+67,Data Scientist/Machine Learning Engineer at Climate Tech Company,Data Scientist Manager,0.744
+66,Sr. Data Scientist, Machine Learning,Data Scientist,0.739
+66,Senior Data Scientist,Data Scientist,0.809
+66,Data Scientist - Autonomous Driving,Data Scientist,0.712
+77,Executive Assistant,Executive Assistant,1.0
+197,Sr. Machine Learning Engineer,Software Engineer,0.654
+221,Account Executive / Business Development Manager,Business Development Manager,0.766
+63,Business Intelligence Engineer,Data Engineer,0.721
+77,Executive Assistant,Executive Assistant,1.0
+128,Packaging Production Manager Opening - Remote PositionAccount Executive,Operations Manager,0.491
+166,Solutions Architect,Solutions Architect,1.0
+63,Sr. AI Data Engineer,Data Engineer,0.73
+6,Account Executive,Accounts Executive,0.985
+24,Supply Chain Analyst,Business Analyst,0.719
+6,Senior Account Executive,Accounts Executive,0.892
+197,Machine Learning Engineer,Software Engineer,0.688
+6,Account Executive,Accounts Executive,0.985
+63,Data Engineer,Data Engineer,1.0
+6,Account Executive,Accounts Executive,0.985
+6,Account Executive,Accounts Executive,0.985
+525,Sales Executive,Sales Executive,1.0
+6,Healthcare Account Executive,Accounts Executive,0.75
+9,Administrative Assistant,Administration Assistant,0.949
+518,Lead Analyst,Analyst,0.719
+235,Python Developer,Python Developer,1.0
+67,Sr. Manager of Data Science,Data Scientist Manager,0.822
+197,Machine Learning Engineer,Software Engineer,0.688
+256,ETL Developer,ETL Developer,1.0
+63,Sr. Data Engineer Opportunity,Data Engineer,0.767
+154,Senior Accountant,Senior Fund Accountant,0.878
+181,Oracle pricing analyst,Transfer Pricing Analyst,0.602
+130,Part -Time CPA (Experienced),Part Qualified Accountant,0.543
+172,Tax Specialist,Tax Professional,0.866
+19,Bookkeeper,Bookkeeper,1.0
+51,Clinical Governance Manager,Corporate Administrator,0.503
+60,Data Compliance Analyst,Data Analyst,0.729
+111,Corporate Paralegal,Lawyer,0.567
+154,Senior Accountant,Senior Fund Accountant,0.878
+518,Proposal Analyst,Analyst,0.649
+518,Technical Analyst,Analyst,0.828
+153,Senior Contract Manager,Senior Corporate Administrator,0.66
+152,Employee Benefits Specialist,Security Specialist,0.599
+113,Accounting Manager,Management Accountant,0.843
