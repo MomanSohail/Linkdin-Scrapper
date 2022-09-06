@@ -2,11 +2,50 @@ import os
 import pickle 
 import difflib
 
-#import DatabaseConnection
+import DatabaseConnection
 from collections import defaultdict
 from sentence_transformers import SentenceTransformer, util
 
 MODEL  = SentenceTransformer('all-MiniLM-L6-v2')
+
+
+def getJobTitleTagFuzzyWuzzy(id, jobtitle):
+    from fuzzywuzzy import process
+
+    with DatabaseConnection.mariadb_connection() as connection:
+
+        cursor = connection.cursor()
+        try:
+            query = "Select id,job_title_tag_name from job_title_tag_category;"
+            cursor.execute(query)
+            mytags = cursor.fetchall()
+        except:
+            print("Error")
+        mytitle_tag = []
+        for a in mytags:
+            mytitle_tag.append(a[1])
+
+    ratios = process.extract(jobtitle, mytitle_tag)
+
+    # search_param_title=DatabaseConnection.mariadb_connection.get_search_param_title(id)
+    # ratios_2=process.extract(search_param_title, mytitle_tag)
+
+    if(len(ratios)>0):
+
+        suggested_title_tag=ratios[0][0]
+        percent_similar = ratios[0][1]
+
+        #50
+        if(percent_similar<85):
+            suggested_title_tag=None
+
+
+    if(suggested_title_tag is not None):
+        title_tag_id=[e[0] for e in mytags if e[1] == suggested_title_tag][0]
+
+        return title_tag_id
+    else:
+        return "N/A"
 
 
 def readTitleEmbeddings():
@@ -21,7 +60,7 @@ def getEmbedding(strr):
     return MODEL.encode(strr, convert_to_tensor=True)
 
 
-def getJobTitleTagId(id, jobtitle):
+def getJobTitleTagUSE(id, jobtitle):
     
     title_embeddings,file = readTitleEmbeddings()
     file.close()
@@ -47,35 +86,49 @@ def getJobTitleTagId(id, jobtitle):
     except:
         return "N/A"
 
-    
-def map_title_jobtitletag(id,title):
+
+def saveTitleTag(titletag_id,column_name):
 
     with DatabaseConnection.mariadb_connection() as connection:
+
         cur=connection.cursor()
-        titletag_id,titletag_name=getJobTitleTagId(id,title)
+        # cur.execute(query)
+        # my_titles=cur.fetchall()
         row_counter = 0
+        # for a in my_titles:
+        #     id=a[0]
+        #     title=a[1]
+        #titletag_id=getJobTitleTagFuzzyWuzzy(id,title)
 
         if(titletag_id != 'N/A'):
             row_counter+=1
             # Insert in database
-            sql = "Update castille_ecosystem.crawler_maintable set job_title_tag_id=%s where id= %s"
+            sql = f"Update castille_ecosystem.crawler_maintable set {column_name}=%s where id= %s"
             val = (titletag_id, id)
             cur.execute(sql, val)
             connection.commit()
             row_counter += cur.rowcount
 
 
+def map_title_jobtitletag(id,title):
 
-if __name__ == '__main__':
+    saveTitleTag(getJobTitleTagFuzzyWuzzy(id,title),'job_title_tag_id')
 
-    testing=False
+    titletag_id,titletag_name=getJobTitleTagUSE(id,title)
+    saveTitleTag(titletag_id,'use_title_tag_id')
 
-    if testing:
 
-        id=111390
-        title="Junior Back End Developer"
 
-        title_tag_id,title_tag_name=getJobTitleTagId(id, title)
+#if __name__ == '__main__':
 
-        print(f"Input Title::{title} ,Tagged Title::{title_tag_name} ,Title Id::{title_tag_id}")
+    #testing=False
+
+    #if testing:
+
+        #id=111390
+        #title="Junior Back End Developer"
+
+        #title_tag_id,title_tag_name=getJobTitleTagId(id, title)
+
+        #print(f"Input Title::{title} ,Tagged Title::{title_tag_name} ,Title Id::{title_tag_id}")
    
